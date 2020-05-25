@@ -1,6 +1,6 @@
 
 
-![](.\pic1.png)
+![](pic1.png)
 
 ```xml
     <com.zft.signal.SignalView
