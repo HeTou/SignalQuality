@@ -1,7 +1,6 @@
 
 
-![
-](C:\Users\Administrator\Documents\微信图片_20200525183040.png)
+![](.\pic1.png)
 
 ```xml
     <com.zft.signal.SignalView
